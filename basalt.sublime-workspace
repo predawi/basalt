@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stats",
+				"stats__circle"
+			],
+			[
+				"ic",
+				"include"
+			],
+			[
+				"bloc",
+				"bloc-highlight__img"
+			],
+			[
+				"trn",
+				"transition"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"load",
+				"loader__fill"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"light",
+				"light-gray"
+			],
+			[
+				"main",
+				"maingrey"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"sea",
+				"searchContainer"
+			],
+			[
+				"base",
+				"base-cover__cat"
+			],
+			[
+				"sol",
+				"solution-item"
+			],
+			[
+				"so",
+				"solution-color"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"str",
+				"stratum__inner"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"goo",
+				"googlefont-2"
+			],
+			[
+				"goog",
+				"googlefont-1"
+			],
+			[
+				"text",
+				"textcolor"
+			],
+			[
+				"post__",
+				"post__section__side"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bdr",
+				"bdrz	border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/scripts.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/style.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/conf-img/image-sizes.json",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/conf-img/image-locations.json",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_utilities.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_global.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/vendor/_slicks.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/vendor/slick.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_header.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/components/_buttons.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/html/blocks/bloc-stats.php",
+		"/Users/beapi/Documents/BeAPI/sdis-35/sftp-config.json",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/vendor/counterup.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/root/_variables.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/gulpfile.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/vendor/waypoint.js",
+		"/Users/beapi/Documents/Ressources/js/progressbar.js-master/src/main.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/package.json",
+		"/Users/beapi/Documents/BeAPI/sdis-35/.gitignore",
+		"/Users/beapi/Documents/Ressources/js/progressbar.js-master/test/test-all.js",
+		"/Users/beapi/Documents/Ressources/js/progressbar.js-master/test/testem.html",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/html/blocks/bloc-access.php",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_layout.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_covers.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_loader.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_ctas.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/html/header-w-loading.php",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/html/header.php",
+		"/Users/beapi/Downloads/loadgo-master/examples/main.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_menus.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/src/menu.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/components/_text.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/html/footer.php",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/patterns/_searchform.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/vendor/loadgo.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/src/loader.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/src/scripts-domready.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/src/search.js",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/html/00-loading.php",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/html/01-home.php",
+		"/Users/beapi/Downloads/ThumbnailGridAnimations/css/component.css",
+		"/Users/beapi/Downloads/ThumbnailGridAnimations/index6.html",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/root/_fonts.scss",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/img/icons/search.svg",
+		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/vendor_async/fonts-css-async.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_layout.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/01-home.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_plugins.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_searchform.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/cookies.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_silo.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/root/_variables.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/vendor/_icons-inline.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/tasks/iconfont-inline.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/inc/assets.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_ie.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/scripts.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/sliders.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/header-alert.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/header.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/02-page-default.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/conf-img/image-locations.json",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/vendor_ie/matchMedia.addListener.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/functions/class-bea-images.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/icons.css",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_menus.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_beaverbuilder.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_entries.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_themes.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_text.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_icons.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/scripts-domready.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/vendor/jquery.cookie.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_buttons.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/tasks/iconfont.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/vendor/_icons.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/gulpfile.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/06-beaver-modules.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/social-row.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/ie_message.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/search.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/base-stratum-w-img.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/vendor/jquery.min.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/style.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/blocks/footer-mega.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/footer.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_global.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/base-stratum--no-results-alt.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/cd-ain-360.svg",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/03-solution-single.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/header.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/04-news-archives.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_default.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_cssloading.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/root/_fonts.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/root/_font.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/fonts.min.css",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/fonts.css",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/footer.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/views/bea-bb-stratum-generic-nav/includes/frontend.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/vendor_ie/matchmedia-polyfill.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_footer.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/tiles-list.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/silo/templates/silo-item-tpl.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/silo.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/views/bea-bb-stratum-solution-grid/includes/frontend.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/taxonomy-silo-services.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/base-stratum--search.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_cover.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_variables.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/taxonomy-silo-professional.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/searchform.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/searchform-auto.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/accessibility.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_header.scss",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/close.svg",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/enter.svg",
+		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/css/style5.css",
+		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/index5.html",
+		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/js/demo5.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/console.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/autocomplete.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/blocks/searchform.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/04-news-single.php",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/silo/templates/no-results-tpl.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/silo/templates/results-tpl.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/tasks/sass.js",
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_solution.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/plugins",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css",
+			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet/assets/css",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet/buddypress/members",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet/buddypress",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet/assets/css",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet/assets/css",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/plugins/bea-documents",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet",
+			"/Users/beapi/Documents/BeAPI/cef-extranet-econome/content/themes/cef-extranet/assets/css",
+			"/Users/beapi/Documents/BeAPI/cci-uas-hdf/content/themes/cci-uas-hdf/assets/css",
+			"/Users/beapi/Documents/BeAPI/cef-uas/wp-content/themes/cef-master/assets/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sdis-barrack",
+			"loaded",
+			"tile-",
+			"result",
+			".searchform__field",
+			"matchMedia",
+			"entry-img",
+			"btn-search-close",
+			".log",
+			"jquery",
+			"book",
+			"social-item__link",
+			"360",
+			"tile",
+			".media__metas",
+			"font",
+			"cssloading__overlay",
+			"social-item__link",
+			"header__search__trigger",
+			"section_2_title",
+			"tile-item__link",
+			"stratum__nav",
+			"templateRow",
+			"services",
+			"texts",
+			"header__search",
+			"loading",
+			"querySelector",
+			"data-autocomplete",
+			"autocomplete",
+			"sante",
+			"console.log",
+			"loadSolutions",
+			"resul",
+			"silo_data",
+			"html",
+			"parent",
+			"substr",
+			"checkURL",
+			"substr",
+			"level",
+			"scroll",
+			"docum",
+			"templateBreadcrumb",
+			"loadSolutions",
+			"error: Not Found",
+			"loadSolutions",
+			"l.loadSolutions",
+			"solutionsActions",
+			"solutionssiloActions",
+			"solutionsActions",
+			"documentsActions",
+			"isotope",
+			"loadResults",
+			"solutions_data",
+			"removeClass",
+			"checkURL",
+			"substr",
+			"_defaultButton",
+			"substr",
+			"term",
+			"console.log",
+			"_solutionBtnTpl",
+			"jsonSiloUrl",
+			"services",
+			"blockquote",
+			" {",
+			".icon",
+			" {",
+			".icon",
+			"f7f9fa",
+			"cssloading__overlay",
+			"facetwp-template",
+			".search__list__tabs",
+			"_filtersContext",
+			"visuallyhidden",
+			"profile",
+			"Modification des champs du groupe : Base",
+			"console.log",
+			"console.l",
+			".facetwp-type-fselect",
+			".highlight",
+			"highlight__item__title",
+			"icons.svg",
+			".mask-effect",
+			"btn--clear",
+			"highlight__img",
+			"documents-details__item__inner",
+			".post__section--wrap",
+			"}\n",
+			"<ul>",
+			"{\n",
+			"menu",
+			"documents-details__item__title",
+			".header-inner",
+			"body",
+			"post__section--small",
+			"$googlefont-3",
+			"base__section--alt",
+			".avatar",
+			"related__title",
+			"bread",
+			".tile--simple",
+			"tile",
+			"project",
+			"space",
+			".wpb_row"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"siloActions",
+			"_siloBtnTpl",
+			":before {"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.919138885022,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true
+}

@@ -6,6 +6,13 @@ $susy: (
 	global-box-sizing: border-box
 	//debug :(image: show-columns)
 );
+$susy-mini: (
+	columns: 12,
+	gutters: .25,
+	container: 650px,
+	global-box-sizing: border-box
+	//debug :(image: show-columns)
+);
 
 //Positioning
 $zindex: 1;
@@ -14,7 +21,7 @@ $zindex: 1;
 $font-sansserif: Arial, Helvetica, sans-serif;
 $font-serif: Times, Georgia, serif;
 
-$customfont-1: Roboto, sans-serif;
+$customfont-1: Bebas, sans-serif;
 $customfont-2: Circular, sans-serif;
 
 // Font Sizes
@@ -31,12 +38,12 @@ $half-base-spacing: $base-spacing / 2;
 
 //Colors
 $maincolor: #f5745a;
-$textcolor: #333;
+$textcolor: #fff;
 
 $lightcolor: #fff;
-$darkcolor: #000;
+$darkcolor: #111111;
 
-$maingrey: #ddd;
+$maingrey: #9B9B9B;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;

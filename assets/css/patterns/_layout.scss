@@ -5,6 +5,11 @@
 	padding: 0 10px;
 	@media screen and (min-width: $desktop-small) {
 		padding: 0;
+		&--mini {
+			@include with-layout($susy-mini) {
+				@include container;
+			}
+		}
 	}
 }
 .content {

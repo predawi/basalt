@@ -195,7 +195,7 @@ sup {
 ----------------------------------------------------------------------------------------------------*/
 .fonts-loaded {
 	&>body {
-		font-family: $customfont-1;
+		font-family: $customfont-2;
 	}
 	h1,
 	h2,
@@ -203,6 +203,6 @@ sup {
 	h4,
 	h5,
 	h6 {
-		font-family: $customfont-2;
+		font-family: $customfont-1;
 	}
 }

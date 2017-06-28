@@ -1,2 +1,67 @@
 /* Global css
  ----------------------------------------------------------------------------------------------------*/
+body {
+	padding: 100px 0;
+	background: $darkcolor;
+}
+
+
+.intro {
+	position: relative;
+	margin-top: 15vh;
+	margin-bottom: 30px;
+	text-align: center;
+	img {
+		position: relative;
+		z-index: 1;
+		animation: breathe 3s ease-in-out infinite alternate;
+	}
+}
+@keyframes breathe {
+	from { opacity: 1; }
+	to { opacity: .4; }
+}
+.intro__desc {
+	position: absolute;
+	z-index: 2;
+	width: 100%;
+	top: 70px;
+	line-height: 39px;
+	letter-spacing: 10px;
+	font-size: 26px;
+}
+
+.meeting {
+	margin-bottom: 50px;
+	text-align: center;
+	a {
+		display: inline-block;
+		margin: 5px 10px;
+		color: $lightcolor;
+	}
+	p {
+		width: 70%;
+		margin: 0 auto 20px;
+	}
+	@media screen and (min-width: $tablet-medium) {
+		margin-bottom: 100px;
+	}
+}
+
+.company {
+	color: $maingrey;
+	@include clearfix;
+}
+.company__column {
+	margin-bottom: 20px;
+	@media screen and (min-width: $tablet-medium) {
+		@include span(5.5);
+		@include push(.2);
+		&:first-child {
+			@include push(.5);
+		}
+		&:last-child {
+			@include span(5.3);
+		}
+	}
+}

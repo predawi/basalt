@@ -14,13 +14,13 @@ I(c,'"'+c.family+'",serif'));z(p,function(a){h=a;t()});x(p,I(c,'"'+c.family+'",m
 
 
 // detect loading of fonts using fontfaceobserver
-var Roboto = new FontFaceObserver("Roboto");
+var Bebas = new FontFaceObserver("Bebas");
 var Circular = new FontFaceObserver("Circular");
 
 //Fallback condition for non Promise ready browsers
 if ( typeof Promise !== "undefined" ) {
 	//Load any fonts you want
-	Promise.all([Roboto.load(), Circular.load()]).then(function () {
+	Promise.all([Bebas.load(), Circular.load()]).then(function () {
 		//Add class when fonts are loaded
 		document.documentElement.classList.add('fonts-loaded');
 		// set mark on storage for future page views
