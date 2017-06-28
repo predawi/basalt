@@ -111,6 +111,56 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1916,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 6116,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cache.php",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 31980 files for \"Roboto\"\n\n/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_fonts.scss:\n    1: //Roboto for body text\n    2  @include declare-font-face(\"Bebas\", \"#{$fonts-url}/Bebas/BebasNeue\"); //regularx400\n    3  \n\n/Users/beapi/Documents/BeAPI/basalt/assets/css/vendor/bourbon/app/assets/stylesheets/addons/_font-stacks.scss:\n   11  /// @type List\n   12  \n   13: $helvetica: \"Helvetica Neue\", \"Helvetica\", \"Roboto\", \"Arial\", sans-serif;\n   14  \n   15  /// Lucida Grande font stack.\n\n/Users/beapi/Documents/BeAPI/basalt/node_modules/bourbon/app/assets/stylesheets/addons/_font-stacks.scss:\n   11  /// @type List\n   12  \n   13: $helvetica: \"Helvetica Neue\", \"Helvetica\", \"Roboto\", \"Arial\", sans-serif;\n   14  \n   15  /// Lucida Grande font stack.\n\n3 matches across 3 files\n",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -156,6 +206,16 @@
 	},
 	"file_history":
 	[
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_fonts.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/style.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/js/vendor_async/fonts-css-async.js",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/components/_text.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_layout.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_variables.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_global.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/html/footer.php",
+		"/Users/beapi/Documents/BeAPI/basalt/html/header.php",
+		"/Users/beapi/Documents/BeAPI/basalt/html/01-home.php",
 		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/js/scripts.js",
 		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css/style.scss",
 		"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/conf-img/image-sizes.json",
@@ -273,17 +333,7 @@
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_header.scss",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/close.svg",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/enter.svg",
-		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/css/style5.css",
-		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/index5.html",
-		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/js/demo5.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/console.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/autocomplete.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/blocks/searchform.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/04-news-single.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/silo/templates/no-results-tpl.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/silo/templates/results-tpl.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/tasks/sass.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_solution.scss"
+		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/css/style5.css"
 	],
 	"find":
 	{
@@ -294,6 +344,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"/Users/beapi/Documents/BeAPI/basalt",
 			"/Users/beapi/Documents/BeAPI/sdis-35/content/themes/sdis-35/assets/css",
 			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src",
 			"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain",
@@ -321,6 +372,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Roboto",
 			"sdis-barrack",
 			"loaded",
 			"tile-",
@@ -448,8 +500,219 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1126,
+								1126
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 6116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "cache.php",
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										110,
+										116
+									],
+									[
+										423,
+										429
+									],
+									[
+										686,
+										692
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"output_tag": 1,
+							"remote_loading": false,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"synced": false,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
