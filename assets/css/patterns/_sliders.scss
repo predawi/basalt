@@ -11,6 +11,7 @@
 }
 .home-slider__item {
 	text-align: center;
+	outline: none;
 	img {
 		display: inline-block;
 	}
@@ -27,7 +28,6 @@
 .home-slider__nav {
 	text-align: center;
 	font-family: $customfont-1;
-	background: #f00;
 	@media screen and (min-width: $tablet-medium) {
 		.slick-list {
 			height: 190px !important;
@@ -48,6 +48,7 @@
 	text-transform: uppercase;
 	transition: all .3s ease-in-out;
 	text-decoration: none;
+	outline: none;
 	@media screen and (min-width: $tablet-medium) {
 		font-size: 35px;
 		&.slick-current {

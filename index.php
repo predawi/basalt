@@ -7,23 +7,41 @@
 		<section class="home-slider" id="home-slider">
 			<!-- Slider item -->
 			<div class="home-slider__item">
-				<img src="http://placehold.it/600x600" alt="">
+				<video width="500" height="500" autoplay loop>
+					<source src="assets/videos/roche1.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>
 			<div class="home-slider__item">
-				<img src="http://placehold.it/600x600" alt="">
+				<video width="500" height="500" autoplay loop>
+					<source src="assets/videos/roche1.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>
 			<div class="home-slider__item">
-				<img src="http://placehold.it/600x600" alt="">
+				<video width="500" height="500" autoplay loop>
+					<source src="assets/videos/roche1.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>
 			<!-- Slider item -->
 			<div class="home-slider__item">
-				<img src="http://placehold.it/600x600" alt="">
+				<video width="500" height="500" autoplay loop>
+					<source src="assets/videos/roche1.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>
 			<div class="home-slider__item">
-				<img src="http://placehold.it/600x600" alt="">
+				<video width="500" height="500" autoplay loop>
+					<source src="assets/videos/roche1.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>
 			<div class="home-slider__item">
-				<img src="http://placehold.it/600x600" alt="">
+				<video width="500" height="500" autoplay loop>
+					<source src="assets/videos/roche1.mp4" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
 			</div>
 		</section>
 	</div>
