@@ -1,4 +1,4 @@
-				</div><!-- main content wrapper -->
+
 			</main> <!-- Main content -->
 		</div><!-- Main -->
 		<?php include 'assets/icons/icons.svg'; ?>

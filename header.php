@@ -16,21 +16,21 @@ require( dirname( __FILE__ ) . '/html/functions/_init.php' );
 		
 		<title>Basalte</title>
 		
-		<link rel="apple-touch-icon" sizes="57x57" href="../assets/img/favicons/apple-touch-icon-57x57.png">
-		<link rel="apple-touch-icon" sizes="60x60" href="../assets/img/favicons/apple-touch-icon-60x60.png">
-		<link rel="apple-touch-icon" sizes="72x72" href="../assets/img/favicons/apple-touch-icon-72x72.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="../assets/img/favicons/apple-touch-icon-76x76.png">
-		<link rel="apple-touch-icon" sizes="114x114" href="../assets/img/favicons/apple-touch-icon-114x114.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="../assets/img/favicons/apple-touch-icon-120x120.png">
-		<link rel="apple-touch-icon" sizes="144x144" href="../assets/img/favicons/apple-touch-icon-144x144.png">
-		<link rel="apple-touch-icon" sizes="152x152" href="../assets/img/favicons/apple-touch-icon-152x152.png">
-		<link rel="apple-touch-icon" sizes="180x180" href="../assets/img/favicons/apple-touch-icon-180x180.png">
-		<link rel="icon" type="image/png" href="../assets/img/favicons/favicon-32x32.png" sizes="32x32">
-		<link rel="icon" type="image/png" href="../assets/img/favicons/favicon-230x230.png" sizes="230x230">
-		<link rel="icon" type="image/png" href="../assets/img/favicons/favicon-96x96.png" sizes="96x96">
-		<link rel="icon" type="image/png" href="../assets/img/favicons/android-chrome-192x192.png" sizes="192x192">
-		<link rel="icon" type="image/png" href="../assets/img/favicons/favicon-16x16.png" sizes="16x16">
-		<link rel="manifest" href="../assets/img/favicons/android-chrome-manifest.json">
+		<link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicons/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicons/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicons/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicons/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicons/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicons/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicons/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="assets/img/favicons/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="assets/img/favicons/favicon-230x230.png" sizes="230x230">
+		<link rel="icon" type="image/png" href="assets/img/favicons/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="assets/img/favicons/android-chrome-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="assets/img/favicons/favicon-16x16.png" sizes="16x16">
+		<link rel="manifest" href="assets/img/favicons/android-chrome-manifest.json">
 		<link rel="shortcut icon" href="../assets/img/favicons/favicon.ico">
 		<meta property="og:image" content="favicons/open-graph.png">
 		<meta name="msapplication-TileColor" content="#ffffff">
@@ -63,9 +63,9 @@ require( dirname( __FILE__ ) . '/html/functions/_init.php' );
 			}
 		</style>
 
-		<link rel="preload" href="../assets/css/style.css" as="style" onload="this.rel='stylesheet'">
+		<link rel="preload" href="assets/css/style.css" as="style" onload="this.rel='stylesheet'">
 		<noscript>
-			<link rel="stylesheet" href="../assets/css/style.css">
+			<link rel="stylesheet" href="assets/css/style.css">
 		</noscript>
 
 		<script>
@@ -76,7 +76,7 @@ require( dirname( __FILE__ ) . '/html/functions/_init.php' );
 		</script>
 		
 		<!-- Modernizr Custom (JS + SVG detection) -->
-		<script type="text/javascript" src="../assets/js/vendor_async/modernizr.custom.min.js"></script>
+		<script type="text/javascript" src="assets/js/vendor_async/modernizr.custom.min.js"></script>
 		
 		<!-- jQuery -->
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
@@ -97,4 +97,3 @@ require( dirname( __FILE__ ) . '/html/functions/_init.php' );
 		<div id="main">
 
 			<main id="main__content" class="main__content">
-				<div class="wrapper wrapper--mini">

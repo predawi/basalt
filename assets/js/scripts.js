@@ -16,6 +16,7 @@ var ieMessage 		= require('./src/ie_message');
 var placeholder 	= require('./src/placeholder');
 var menu 					= require('./src/menu');
 var lightbox 			= require('./src/lightbox');
+var sliders 			= require('./src/sliders');
 
 jQuery(document).ready(function(){
 	//console.log('Init');

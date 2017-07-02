@@ -17,6 +17,7 @@
 //Load vendor css from bower 
 @import "vendor/normalize-scss/_normalize.scss";
 @import "vendor/_magnific-popup.scss";
+@import "vendor/_slick.scss";
 
 //Main websites components
 @import "components/_box-sizing.scss";
@@ -44,6 +45,7 @@
 @import "patterns/_comments.scss";
 @import "patterns/_widgets.scss";
 @import "patterns/_searchform.scss";
+@import "patterns/_sliders.scss";
 
 //Pages
 @import "pages/_default.scss";

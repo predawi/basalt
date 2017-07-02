@@ -84,12 +84,12 @@ function get_the_post_thumbnail( $post_id = 0, $size_or_img_name = 'thumbnail', 
 	}
 
 	//Get img_base size for base SRC
-	if( isset( $location_array->img_base ) && !empty( isset( $location_array->img_base ) )  ){
+	/*if( isset( $location_array->img_base ) && !empty( isset( $location_array->img_base ) ) ){
 		$_size = $bea_image::get_image_size( $location_array->img_base );
 		if ( !empty( $_size ) ) {
 			$image_size = $_size;
 		}
-	}
+	}*/
 
 	$is_img = is_size_or_img( $size_or_img_name );
 	if ( $is_img === true ) {
