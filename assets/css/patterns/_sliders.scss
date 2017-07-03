@@ -21,7 +21,7 @@
 .home-slider__nav__wrapper {
 	position: absolute;
 	z-index: 2;
-	top: 50%; left: 25%;
+	top: 46%; left: 25%;
 	width: 50%;
 	transform: translateY(-50%);
 }
@@ -45,14 +45,56 @@
 	height: 60px;
 	line-height: 60px;
 	color: $lightcolor;
+	letter-spacing: 10px;
 	text-transform: uppercase;
 	transition: all .3s ease-in-out;
 	text-decoration: none;
 	outline: none;
+	@include hover {
+		color: $lightcolor;
+	}
 	@media screen and (min-width: $tablet-medium) {
 		font-size: 35px;
 		&.slick-current {
 			font-size: 70px;
 		}
+	}
+}
+
+.slick-arrow {
+	z-index: 2;
+	position: relative;
+	width: 100%;
+	opacity: 0;
+}
+.slick-prev {
+	top: 45px;
+}
+.slick-next {
+	top: -45px;
+}
+
+
+.section-access {
+	position: absolute;
+	z-index: 3;
+	top: 44%; right: 120px;
+	width: 34px; height: 34px;
+	padding: 0;
+	line-height: 34px;
+	text-align: center;
+	background: none;
+	.icon-caret-right {
+		position: relative;
+		top: -2px; left: 1px;
+		width: 15px; height: 15px;
+	}
+	.icon-dashed-border {
+		position: absolute;
+		top: 0; left: 0;
+		width: 34px; height: 34px;
+	}
+	@include hover {
+		background: none;
 	}
 }

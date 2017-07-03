@@ -18,8 +18,17 @@ $('#home-slider').slick({
 	asNavFor: '#home-slider__nav',
 });
 
+var allVideos = $('.home-slider__item video');
+$('#home-slider').on('afterChange', function(event, slick, currentSlide){
+	$.each(allVideos, function( index, value ) {
+		value.pause();
+	});
+
+	var currentVideo = $('.home-slider__item[data-slick-index='+currentSlide+']').find('video').get(0);
+	currentVideo.play();
+});
+
 $('#home-slider__nav').slick({
-	arrows: false,
 	initialSlide: 1,
 	slidesToShow: 1,
 	slidesToScroll: 1,

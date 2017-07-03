@@ -13,6 +13,13 @@ $susy-mini: (
 	global-box-sizing: border-box
 	//debug :(image: show-columns)
 );
+$susy-medium: (
+	columns: 12,
+	gutters: .25,
+	container: 740px,
+	global-box-sizing: border-box
+	//debug :(image: show-columns)
+);
 
 //Positioning
 $zindex: 1;

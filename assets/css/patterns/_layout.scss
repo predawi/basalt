@@ -10,6 +10,11 @@
 				@include container;
 			}
 		}
+		&--medium {
+			@include with-layout($susy-medium) {
+				@include container;
+			}
+		}
 	}
 }
 .content {
