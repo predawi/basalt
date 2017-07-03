@@ -94,6 +94,13 @@ require( dirname( __FILE__ ) . '/html/functions/_init.php' );
 			</div>
 		<![endif]-->
 		<div class="cssloading__overlay"></div>
+
+		<?php if ( $class == 'home' ) :?>
+			<h1 class="header__title visuallyhidden"><a href="01-home.php">Collectif Basalte</a></h1>
+		<?php else: ?>
+			<div class="header__title visuallyhidden"><a href="01-home.php">Collectif Basalte</a></div>
+		<?php endif; ?>
+
 		<div id="main">
 
 			<main id="main__content" class="main__content">

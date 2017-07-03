@@ -31,6 +31,86 @@
         "default_img": "thumb-100-100.jpg",
         "img_base": "img-100-100"
       }
+    ],
+    "entry-default": [
+      {
+        "srcsets": [
+          {
+            "srcset": "",
+            "size": "img-490-420"
+          },
+          {
+            "srcset": "2x",
+            "size": "img-980-840"
+          }
+        ],
+        "default_img": "thumb-100-100.jpg",
+        "img_base": "img-100-100"
+      }
+    ],
+    "entry-default-small": [
+      {
+        "srcsets": [
+          {
+            "srcset": "",
+            "size": "img-410-310"
+          },
+          {
+            "srcset": "2x",
+            "size": "img-820-620"
+          }
+        ],
+        "default_img": "thumb-100-100.jpg",
+        "img_base": "img-100-100"
+      }
+    ],
+    "entry-vertical": [
+      {
+        "srcsets": [
+          {
+            "srcset": "",
+            "size": "img-290-430"
+          },
+          {
+            "srcset": "2x",
+            "size": "img-580-860"
+          }
+        ],
+        "default_img": "thumb-100-100.jpg",
+        "img_base": "img-100-100"
+      }
+    ],
+    "entry-vertical-big": [
+      {
+        "srcsets": [
+          {
+            "srcset": "",
+            "size": "img-410-470"
+          },
+          {
+            "srcset": "2x",
+            "size": "img-820-940"
+          }
+        ],
+        "default_img": "thumb-100-100.jpg",
+        "img_base": "img-100-100"
+      }
+    ],
+    "small-rock": [
+      {
+        "srcsets": [
+          {
+            "srcset": "",
+            "size": "img-173-150"
+          },
+          {
+            "srcset": "2x",
+            "size": "img-346-300"
+          }
+        ],
+        "default_img": "thumb-100-100.jpg",
+        "img_base": "img-100-100"
+      }
     ]
   }
 ]

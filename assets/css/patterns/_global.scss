@@ -3,6 +3,16 @@
 body {
 	padding: 100px 0;
 	background: $darkcolor;
+	transition: all .3s ease-in-out;
+	&.white {
+		color: $darkcolor;
+		background: $lightcolor;
+		.home-slider__nav__item,
+		.section-access .icon,
+		.logo__link {
+			color: $darkcolor;
+		}
+	}
 }
 
 
@@ -38,7 +48,7 @@ body {
 	a {
 		display: inline-block;
 		margin: 5px 10px;
-		color: $lightcolor;
+		color: $darkcolor;
 	}
 	p {
 		width: 70%;

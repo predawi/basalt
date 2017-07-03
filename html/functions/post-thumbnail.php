@@ -183,9 +183,9 @@ function is_size_or_img( $size_or_img_name = 'thumbnail' ) {
  */
 function get_timthumb_url( $path_img, $image_size = null ) {
 	if ( ! empty( $image_size ) ) {
-		return get_full_url( $_SERVER, true ) . 'functions/vendor/timthumb.php?src=' . $path_img . '&h=' . $image_size->height . '&w=' . $image_size->width . '&zc=' . (int) $image_size->crop;
+		return get_full_url( $_SERVER, true ) . 'basalte/html/functions/vendor/timthumb.php?src=' . $path_img . '&h=' . $image_size->height . '&w=' . $image_size->width . '&zc=' . (int) $image_size->crop;
 	} else {
-		return get_full_url( $_SERVER, true ) . 'functions/vendor/timthumb.php?src=' . $path_img;
+		return get_full_url( $_SERVER, true ) . 'basalte/html/functions/vendor/timthumb.php?src=' . $path_img;
 	}
 }
 

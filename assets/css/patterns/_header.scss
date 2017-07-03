@@ -4,17 +4,20 @@
 	@include clearfix;
 	padding-top: $base-spacing;
 }
-.header__logo-link {
-	display: block;
+.logo {
+	position: relative;
+	z-index: 2;
+	.icon {
+		display: inline-block;
+		width: 25px; height: 45px;
+	}
 }
-.header__icon {
-	display: block;
-	height: 50px;
-	width: 50px;
-	margin: 0 auto 10px;
-	color: $maincolor;
-}
-.header__img {
-	@include img__responsive();
-	margin: 0 auto $base-spacing;
+.logo__link {
+	color: $lightcolor;
+	transition: all .2s ease-in-out;
+	@include hover {
+		transform: translateY(5px);
+		display: inline-block;
+		color: $lightcolor;
+	}
 }

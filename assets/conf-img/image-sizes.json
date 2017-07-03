@@ -25,10 +25,82 @@
 				"height":"100",
 				"crop":true
 			},
+		"img-170-170":
+			{
+				"width":"170",
+				"height":"170",
+				"crop":true
+			},
+		"img-173-150":
+			{
+				"width":"173",
+				"height":"150",
+				"crop":true
+			},
 		"img-200-200":
 			{
 				"width":"200",
 				"height":"200",
+				"crop":true
+			},
+		"img-290-430":
+			{
+				"width":"290",
+				"height":"430",
+				"crop":true
+			},
+		"img-340-340":
+			{
+				"width":"340",
+				"height":"340",
+				"crop":true
+			},
+		"img-346-300":
+			{
+				"width":"346",
+				"height":"300",
+				"crop":true
+			},
+		"img-410-310":
+			{
+				"width":"410",
+				"height":"310",
+				"crop":true
+			},
+		"img-410-470":
+			{
+				"width":"410",
+				"height":"470",
+				"crop":true
+			},
+		"img-490-420":
+			{
+				"width":"490",
+				"height":"420",
+				"crop":true
+			},
+		"img-580-860":
+			{
+				"width":"580",
+				"height":"860",
+				"crop":true
+			},
+		"img-820-620":
+			{
+				"width":"820",
+				"height":"620",
+				"crop":true
+			},
+		"img-820-940":
+			{
+				"width":"820",
+				"height":"940",
+				"crop":true
+			},
+		"img-980-840":
+			{
+				"width":"980",
+				"height":"840",
 				"crop":true
 			}
 	}

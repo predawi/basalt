@@ -21,9 +21,39 @@
 .home-slider__nav__wrapper {
 	position: absolute;
 	z-index: 2;
-	top: 46%; left: 25%;
-	width: 50%;
+	top: 46%; left: 10%;
+	width: 80%;
 	transform: translateY(-50%);
+	transition: all .3s ease-in-out;
+	&.topped {
+		margin-top: -100px;
+		.section-access {
+			margin-top: 120px;
+		}
+	}
+	&.magnet {
+		.slick-arrow {
+			z-index: -3;
+		}
+		.icon-caret-right {
+			top: -3px; left: 0;
+			transform: rotate(-90deg);
+			opacity: 0;
+		}
+		.section-access {
+			right: 50%;
+			margin-right: -17px;
+			&:hover {
+				.icon-caret-right {
+					opacity: 1;
+				}
+			}
+		}
+	}
+	@media screen and (min-width: $tablet-medium) {
+		left: calc( (100% - 685px) / 2 );
+		width: 685px;
+	}
 }
 .home-slider__nav {
 	text-align: center;
@@ -50,6 +80,9 @@
 	transition: all .3s ease-in-out;
 	text-decoration: none;
 	outline: none;
+	&.invisible {
+		opacity: 0;
+	}
 	@include hover {
 		color: $lightcolor;
 	}
@@ -84,10 +117,13 @@
 	line-height: 34px;
 	text-align: center;
 	background: none;
+	transition: all .3s ease-in-out;
+	outline: none;
 	.icon-caret-right {
 		position: relative;
 		top: -2px; left: 1px;
 		width: 15px; height: 15px;
+		transition: all .3s ease-in-out;
 	}
 	.icon-dashed-border {
 		position: absolute;
