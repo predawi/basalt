@@ -86,7 +86,6 @@ nb-configuration.xml
 ### SublimeText ###
 # workspace files are user-specific
 *.sublime-workspace
-*.sublime-project
 
 # project files should be checked into the repository, unless a significant
 # proportion of contributors will probably not be using SublimeText
@@ -401,7 +400,19 @@ content/plugins/wp-all-import-pro
 # END wp-all-import-pro #
 
 
+
+
+
+# BEGIN wp-job-manager-apply-with-facebook #
+content/plugins/wp-job-manager-apply-with-facebook
+# END wp-job-manager-apply-with-facebook #
+
 # BEGIN wp-job-manager-field-editor #
 content/plugins/wp-job-manager-field-editor
 # END wp-job-manager-field-editor #
+
+# BEGIN disable-comments #
+content/plugins/disable-comments
+# END disable-comments #
+
 
