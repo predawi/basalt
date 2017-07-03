@@ -115,39 +115,32 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 1916,
+				"buffer_size": 3353,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "header.php",
+			"file": "assets/css/patterns/_sliders.scss",
 			"settings":
 			{
-				"buffer_size": 6116,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "footer.php",
-			"settings":
-			{
-				"buffer_size": 790,
+				"buffer_size": 1597,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "cache.php",
+			"file": "assets/css/patterns/_sections.scss",
 			"settings":
 			{
-				"buffer_size": 592,
-				"line_ending": "Unix"
+				"buffer_size": 553,
+				"line_ending": "Unix",
+				"name": ".base-section {"
 			}
 		},
 		{
-			"file": "sftp-config.json",
+			"file": "assets/js/src/sliders.js",
 			"settings":
 			{
-				"buffer_size": 1393,
+				"buffer_size": 832,
 				"line_ending": "Unix"
 			}
 		},
@@ -160,10 +153,18 @@
 			}
 		},
 		{
-			"file": ".gitignore",
+			"file": "assets/css/patterns/_layout.scss",
 			"settings":
 			{
-				"buffer_size": 7419,
+				"buffer_size": 712,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/patterns/_utilities.scss",
+			"settings":
+			{
+				"buffer_size": 993,
 				"line_ending": "Unix"
 			}
 		},
@@ -171,7 +172,7 @@
 			"file": "assets/css/style.css",
 			"settings":
 			{
-				"buffer_size": 28350,
+				"buffer_size": 31274,
 				"line_ending": "Unix"
 			}
 		}
@@ -220,12 +221,19 @@
 	},
 	"file_history":
 	[
-		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_fonts.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_variables.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/style.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/html/index.php",
+		"/Users/beapi/Documents/BeAPI/basalt/index.php",
+		"/Users/beapi/Documents/BeAPI/basalt/header.php",
+		"/Users/beapi/Documents/BeAPI/basalt/footer.php",
+		"/Users/beapi/Documents/BeAPI/basalt/cache.php",
+		"/Users/beapi/Documents/BeAPI/basalt/sftp-config.json",
+		"/Users/beapi/Documents/BeAPI/basalt/.gitignore",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_fonts.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/js/vendor_async/fonts-css-async.js",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/components/_text.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_layout.scss",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_variables.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_global.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/html/footer.php",
 		"/Users/beapi/Documents/BeAPI/basalt/html/header.php",
@@ -340,14 +348,7 @@
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/base-stratum--search.php",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_cover.scss",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_variables.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/taxonomy-silo-professional.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/searchform.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/searchform-auto.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/accessibility.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_header.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/close.svg",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/enter.svg",
-		"/Users/beapi/Documents/Ressources/js/SearchUIEffects/css/style5.css"
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/taxonomy-silo-professional.php"
 	],
 	"find":
 	{
@@ -514,7 +515,6 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
 				{
@@ -522,77 +522,15 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 1916,
+						"buffer_size": 3353,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								619,
-								619
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "header.php",
-					"settings":
-					{
-						"buffer_size": 6116,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								44,
-								44
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "footer.php",
-					"settings":
-					{
-						"buffer_size": 790,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								591,
-								591
+								147,
+								147
 							]
 						],
 						"settings":
@@ -612,19 +550,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "cache.php",
+					"buffer": 1,
+					"file": "assets/css/patterns/_sliders.scss",
 					"settings":
 					{
-						"buffer_size": 592,
+						"buffer_size": 1597,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								592,
-								592
+								1551,
+								1551
 							]
 						],
 						"settings":
@@ -633,7 +571,68 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1019.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/patterns/_sections.scss",
+					"settings":
+					{
+						"buffer_size": 553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".base-section {",
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/src/sliders.js",
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -643,38 +642,6 @@
 				},
 				{
 					"buffer": 4,
-					"file": "sftp-config.json",
-					"settings":
-					{
-						"buffer_size": 1393,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								252,
-								252
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "assets/css/patterns/_global.scss",
 					"settings":
 					{
@@ -699,25 +666,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 71.0,
+						"translation.y": 251.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": ".gitignore",
+					"buffer": 5,
+					"file": "assets/css/patterns/_layout.scss",
 					"settings":
 					{
-						"buffer_size": 7419,
+						"buffer_size": 712,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								857,
-								857
+								635,
+								635
 							]
 						],
 						"settings":
@@ -726,10 +693,42 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1004.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/css/patterns/_utilities.scss",
+					"settings":
+					{
+						"buffer_size": 993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -737,6 +736,7 @@
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -744,7 +744,7 @@
 					"file": "assets/css/style.css",
 					"settings":
 					{
-						"buffer_size": 28350,
+						"buffer_size": 31274,
 						"regions":
 						{
 						},
@@ -763,7 +763,7 @@
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": 2642.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
