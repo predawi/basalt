@@ -14,7 +14,7 @@
 		margin-bottom: 90px;
 		backface-visibility: hidden;
 		transform-origin: top;
-		transform: perspective(800px) rotateX(90deg);
+		transform: perspective(800px) rotateX(-90deg);
 		opacity: 0;
 		transition: transform .8s cubic-bezier(0.64, 0.57, 0.67, 1.53), opacity 1.2s linear;
 		&.montu {
