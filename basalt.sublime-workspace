@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-top"
+			],
+			[
 				"stats",
 				"stats__circle"
 			],
@@ -112,10 +116,26 @@
 	"buffers":
 	[
 		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 6283,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/src/sliders.js",
+			"settings":
+			{
+				"buffer_size": 2843,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 3353,
+				"buffer_size": 10874,
 				"line_ending": "Unix"
 			}
 		},
@@ -123,7 +143,7 @@
 			"file": "assets/css/patterns/_sliders.scss",
 			"settings":
 			{
-				"buffer_size": 1597,
+				"buffer_size": 2209,
 				"line_ending": "Unix"
 			}
 		},
@@ -131,40 +151,48 @@
 			"file": "assets/css/patterns/_sections.scss",
 			"settings":
 			{
-				"buffer_size": 553,
+				"buffer_size": 2055,
 				"line_ending": "Unix",
 				"name": ".base-section {"
-			}
-		},
-		{
-			"file": "assets/js/src/sliders.js",
-			"settings":
-			{
-				"buffer_size": 832,
-				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "assets/css/patterns/_global.scss",
 			"settings":
 			{
-				"buffer_size": 1123,
+				"buffer_size": 1312,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/css/patterns/_layout.scss",
+			"file": "assets/conf-img/image-locations.json",
 			"settings":
 			{
-				"buffer_size": 712,
-				"line_ending": "Unix"
+				"buffer_size": 2305,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "assets/css/patterns/_utilities.scss",
+			"file": "assets/conf-img/image-sizes.json",
 			"settings":
 			{
-				"buffer_size": 993,
+				"buffer_size": 1433,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/functions/post-thumbnail.php",
+			"settings":
+			{
+				"buffer_size": 5240,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/patterns/_header.scss",
+			"settings":
+			{
+				"buffer_size": 457,
 				"line_ending": "Unix"
 			}
 		},
@@ -172,7 +200,23 @@
 			"file": "assets/css/style.css",
 			"settings":
 			{
-				"buffer_size": 31274,
+				"buffer_size": 34390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/scripts.min.js",
+			"settings":
+			{
+				"buffer_size": 93876,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/private/var/folders/x_/b4l2rsjd5bbgzpsmsj24kgrr0000gp/T/fz3temp-2/timthumb.php",
+			"settings":
+			{
+				"buffer_size": 51598,
 				"line_ending": "Unix"
 			}
 		}
@@ -221,10 +265,20 @@
 	},
 	"file_history":
 	[
+		"/Users/beapi/Documents/BeAPI/basalt/functions/class-bea-images.php",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-locations.json",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-sizes.json",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/img/icons/dashed-border.svg",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/img/icons/caret-right.svg",
+		"/Users/beapi/Documents/BeAPI/basalt/index.php",
+		"/Users/beapi/Documents/BeAPI/basalt/html/functions/post-thumbnail.php",
+		"/Users/beapi/Documents/BeAPI/basalt/html/functions/_init.php",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_utilities.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_layout.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_global.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_variables.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/style.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/html/index.php",
-		"/Users/beapi/Documents/BeAPI/basalt/index.php",
 		"/Users/beapi/Documents/BeAPI/basalt/header.php",
 		"/Users/beapi/Documents/BeAPI/basalt/footer.php",
 		"/Users/beapi/Documents/BeAPI/basalt/cache.php",
@@ -233,8 +287,6 @@
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_fonts.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/js/vendor_async/fonts-css-async.js",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/components/_text.scss",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_layout.scss",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_global.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/html/footer.php",
 		"/Users/beapi/Documents/BeAPI/basalt/html/header.php",
 		"/Users/beapi/Documents/BeAPI/basalt/html/01-home.php",
@@ -340,15 +392,7 @@
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/views/bea-bb-stratum-generic-nav/includes/frontend.php",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/vendor_ie/matchmedia-polyfill.js",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_footer.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/tiles-list.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/silo/templates/silo-item-tpl.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/js/src/silo.js",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/views/bea-bb-stratum-solution-grid/includes/frontend.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/taxonomy-silo-services.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/base-stratum--search.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/patterns/_cover.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_variables.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/taxonomy-silo-professional.php"
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/tiles-list.php"
 	],
 	"find":
 	{
@@ -387,6 +431,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Commissaires d’exposition",
+			"tim",
+			"timth",
+			"section-access",
+			"jQ",
 			"Roboto",
 			"sdis-barrack",
 			"loaded",
@@ -515,22 +564,23 @@
 	"groups":
 	[
 		{
+			"selected": 8,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "header.php",
 					"settings":
 					{
-						"buffer_size": 3353,
+						"buffer_size": 6283,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								147,
-								147
+								5584,
+								5584
 							]
 						],
 						"settings":
@@ -540,89 +590,28 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1131.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "assets/css/patterns/_sliders.scss",
-					"settings":
-					{
-						"buffer_size": 1597,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1551,
-								1551
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1019.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "assets/css/patterns/_sections.scss",
-					"settings":
-					{
-						"buffer_size": 553,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33,
-								33
-							]
-						],
-						"settings":
-						{
-							"auto_name": ".base-section {",
-							"git_gutter_is_enabled": true,
-							"incomplete_sync": null,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "assets/js/src/sliders.js",
 					"settings":
 					{
-						"buffer_size": 832,
+						"buffer_size": 2843,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								513,
-								513
+								942,
+								942
 							]
 						],
 						"settings":
@@ -635,25 +624,119 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 544.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 10874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9991,
+								9991
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2249.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/css/patterns/_sliders.scss",
+					"settings":
+					{
+						"buffer_size": 2209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1655.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "assets/css/patterns/_global.scss",
+					"file": "assets/css/patterns/_sections.scss",
 					"settings":
 					{
-						"buffer_size": 1123,
+						"buffer_size": 2055,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								820,
-								820
+								1148,
+								1148
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".base-section {",
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/css/patterns/_global.scss",
+					"settings":
+					{
+						"buffer_size": 1312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
 							]
 						],
 						"settings":
@@ -666,25 +749,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 251.0,
+						"translation.y": 283.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "assets/css/patterns/_layout.scss",
+					"buffer": 6,
+					"file": "assets/conf-img/image-locations.json",
 					"settings":
 					{
-						"buffer_size": 712,
+						"buffer_size": 2305,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								635,
-								635
+								2172,
+								2183
 							]
 						],
 						"settings":
@@ -693,7 +776,70 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1295.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/conf-img/image-sizes.json",
+					"settings":
+					{
+						"buffer_size": 1433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								824,
+								824
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "html/functions/post-thumbnail.php",
+					"settings":
+					{
+						"buffer_size": 5240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4965,
+								4965
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -703,19 +849,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "assets/css/patterns/_utilities.scss",
+					"buffer": 9,
+					"file": "assets/css/patterns/_header.scss",
 					"settings":
 					{
-						"buffer_size": 993,
+						"buffer_size": 457,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								350,
-								350
+								368,
+								368
 							]
 						],
 						"settings":
@@ -736,15 +882,15 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
-					"buffer": 7,
+					"buffer": 10,
 					"file": "assets/css/style.css",
 					"settings":
 					{
-						"buffer_size": 31274,
+						"buffer_size": 34390,
 						"regions":
 						{
 						},
@@ -763,7 +909,67 @@
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
-						"translation.x": 2642.0,
+						"translation.x": 5316.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "assets/js/scripts.min.js",
+					"settings":
+					{
+						"buffer_size": 93876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/private/var/folders/x_/b4l2rsjd5bbgzpsmsj24kgrr0000gp/T/fz3temp-2/timthumb.php",
+					"settings":
+					{
+						"buffer_size": 51598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -839,6 +1045,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 306.0,
+	"side_bar_width": 237.0,
 	"status_bar_visible": true
 }
