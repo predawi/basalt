@@ -12,48 +12,52 @@
 		</div>
 	</div>
 	
-	<!-- Intro -->
-	<div class="home-slider__wrapper">
-		<section class="home-slider" id="home-slider">
-			<!-- Slider item -->
-			<div class="home-slider__item">
-				<video width="500" height="500" loop>
-					<source src="assets/videos/roche2.mp4" type="video/mp4">
-					Your browser does not support the video tag.
-				</video>
-			</div>
-			<!-- Slider item -->
-			<div class="home-slider__item">
-				<video width="500" height="500" loop>
-					<source src="assets/videos/roche1.mp4" type="video/mp4">
-					Your browser does not support the video tag.
-				</video>
-			</div>
-			<!-- Slider item -->
-			<div class="home-slider__item">
-				<video width="500" height="500" loop>
-					<source src="assets/videos/roche3.mp4" type="video/mp4">
-					Your browser does not support the video tag.
-				</video>
-			</div>
-		</section>
-	</div>
-	
-	<!-- Slider nav -->
-	<div class="home-slider__nav__wrapper">
-		<button class="section-access">
-			<svg class="icon icon-caret-right" aria-hidden="true" role="img">
-				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-right"></use>
-			</svg>
-			<svg class="icon icon-dashed-border" aria-hidden="true" role="img">
-				<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-dashed-border"></use>
-			</svg>
-		</button>
-		<div class="home-slider__nav" id="home-slider__nav">
-			<a href="#" class="home-slider__nav__item" data-section="exposition">Expositions</a>
-			<a href="#" class="home-slider__nav__item" data-section="collectif">Collectif</a>
-			<a href="#" class="home-slider__nav__item" data-section="contact">Contact</a>
+	<div class="sliders-wrapper">
+
+		<!-- Intro -->
+		<div class="home-slider__wrapper">
+			<section class="home-slider" id="home-slider">
+				<!-- Slider item -->
+				<div class="home-slider__item">
+					<video width="500" height="500" loop>
+						<source src="assets/videos/roche2.mp4" type="video/mp4">
+						Your browser does not support the video tag.
+					</video>
+				</div>
+				<!-- Slider item -->
+				<div class="home-slider__item">
+					<video width="500" height="500" loop>
+						<source src="assets/videos/roche1.mp4" type="video/mp4">
+						Your browser does not support the video tag.
+					</video>
+				</div>
+				<!-- Slider item -->
+				<div class="home-slider__item">
+					<video width="500" height="500" loop>
+						<source src="assets/videos/roche3.mp4" type="video/mp4">
+						Your browser does not support the video tag.
+					</video>
+				</div>
+			</section>
 		</div>
+		
+		<!-- Slider nav -->
+		<div class="home-slider__nav__wrapper">
+			<button class="section-access">
+				<svg class="icon icon-caret-right" aria-hidden="true" role="img">
+					<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-right"></use>
+				</svg>
+				<svg class="icon icon-dashed-border" aria-hidden="true" role="img">
+					<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-dashed-border"></use>
+				</svg>
+			</button>
+			<div class="home-slider__nav" id="home-slider__nav">
+				<a href="#" class="home-slider__nav__item" data-section="exposition">Expositions</a>
+				<a href="#" class="home-slider__nav__item" data-section="collectif">Collectif</a>
+				<a href="#" class="home-slider__nav__item" data-section="contact">Contact</a>
+			</div>
+		</div>
+
 	</div>
 
 
