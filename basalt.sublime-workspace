@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"trans",
+				"transition"
+			],
+			[
 				"mar",
 				"margin-top"
 			],
@@ -116,18 +120,58 @@
 	"buffers":
 	[
 		{
-			"file": "html/functions/post-thumbnail.php",
+			"file": "assets/css/patterns/_sliders.scss",
 			"settings":
 			{
-				"buffer_size": 5224,
+				"buffer_size": 2865,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/patterns/_sections.scss",
+			"settings":
+			{
+				"buffer_size": 2375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/src/sliders.js",
+			"settings":
+			{
+				"buffer_size": 3231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/css/demo.css",
+			"settings":
+			{
+				"buffer_size": 6609,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/js/main.js",
+			"settings":
+			{
+				"buffer_size": 13624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/index.html",
+			"settings":
+			{
+				"buffer_size": 17075,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "assets/css/style.css",
 			"settings":
 			{
-				"buffer_size": 34390,
+				"buffer_size": 35512,
 				"line_ending": "Unix"
 			}
 		},
@@ -135,7 +179,7 @@
 			"file": "assets/js/scripts.min.js",
 			"settings":
 			{
-				"buffer_size": 93876,
+				"buffer_size": 102801,
 				"line_ending": "Unix"
 			}
 		}
@@ -184,16 +228,18 @@
 	},
 	"file_history":
 	[
-		"/Users/beapi/Documents/BeAPI/basalt/sftp-config.json",
-		"/Users/beapi/Documents/BeAPI/basalt/html/functions/vendor/timthumb.php",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_header.scss",
-		"/Users/beapi/Documents/BeAPI/basalt/html/functions/post-thumbnail.php",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-sizes.json",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-locations.json",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/js/scripts.js",
+		"/Users/beapi/Documents/BeAPI/basalt/index.php",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_global.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_sections.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/html/functions/post-thumbnail.php",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_header.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/js/vendor/waypoint.js",
+		"/Users/beapi/Documents/BeAPI/basalt/sftp-config.json",
+		"/Users/beapi/Documents/BeAPI/basalt/html/functions/vendor/timthumb.php",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-sizes.json",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-locations.json",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_sliders.scss",
-		"/Users/beapi/Documents/BeAPI/basalt/index.php",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/js/src/sliders.js",
 		"/Users/beapi/Documents/BeAPI/basalt/header.php",
 		"/private/var/folders/x_/b4l2rsjd5bbgzpsmsj24kgrr0000gp/T/fz3temp-2/timthumb.php",
@@ -309,9 +355,7 @@
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/04-news-archives.php",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_default.scss",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_cssloading.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/root/_fonts.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/root/_font.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/fonts.min.css"
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/root/_fonts.scss"
 	],
 	"find":
 	{
@@ -350,6 +394,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"grid__img",
+			"grid--loading",
+			"grid__link",
+			".grid__item",
 			"Commissaires d’exposition",
 			"tim",
 			"timth",
@@ -483,22 +531,23 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "html/functions/post-thumbnail.php",
+					"file": "assets/css/patterns/_sliders.scss",
 					"settings":
 					{
-						"buffer_size": 5224,
+						"buffer_size": 2865,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4944,
-								4944
+								2304,
+								2304
 							]
 						],
 						"settings":
@@ -507,11 +556,163 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2809.0,
+						"translation.y": 2151.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/patterns/_sections.scss",
+					"settings":
+					{
+						"buffer_size": 2375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/js/src/sliders.js",
+					"settings":
+					{
+						"buffer_size": 3231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2461,
+								2461
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1231.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/css/demo.css",
+					"settings":
+					{
+						"buffer_size": 6609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5397,
+								5397
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6551.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/js/main.js",
+					"settings":
+					{
+						"buffer_size": 13624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2075,
+								2081
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1548.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/index.html",
+					"settings":
+					{
+						"buffer_size": 17075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -523,11 +724,11 @@
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 6,
 					"file": "assets/css/style.css",
 					"settings":
 					{
-						"buffer_size": 34390,
+						"buffer_size": 35512,
 						"regions":
 						{
 						},
@@ -553,11 +754,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 7,
 					"file": "assets/js/scripts.min.js",
 					"settings":
 					{
-						"buffer_size": 93876,
+						"buffer_size": 102801,
 						"regions":
 						{
 						},

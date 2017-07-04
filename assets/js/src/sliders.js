@@ -3,8 +3,9 @@
  */
 
 // Dependencies
-var $ = require('jquery');
-var slick = require('../vendor/slick');
+var $ 				= require('jquery');
+var slick 		= require('../vendor/slick');
+var waypoint 	= require('../vendor/waypoint');
 
 // Inite first video
 $('#home-slider').on('init', function() {
@@ -85,6 +86,8 @@ function loadSection(section) {
 	}, 500);
 	setTimeout(function(){
 		$('#'+section).addClass('loaded');
+
+		addWaypointsImg(section);
 	}, 800);
 }
 
@@ -107,5 +110,23 @@ function unloadSection() {
 }
 
 
+function addWaypointsImg(section) {
+
+	$('#'+section+' img').each(function( index ) {
+
+		$el = $(this);
+
+		// Attach waypoint to circles
+		waypoint[index] = new Waypoint({
+			element: $el,
+			handler: function() {
+				this.element.addClass('montu');
+				this.destroy();
+			},
+			offset: '50%'
+		});
+
+	});
+}
 
 

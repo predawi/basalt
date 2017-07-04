@@ -12,6 +12,15 @@
 	}
 	img {
 		margin-bottom: 90px;
+		backface-visibility: hidden;
+		transform-origin: top;
+		transform: perspective(800px) rotateX(90deg);
+		opacity: 0;
+		transition: transform .8s cubic-bezier(0.64, 0.57, 0.67, 1.53), opacity 1.2s linear;
+		&.montu {
+			transform: rotateX(0deg);
+			opacity: 1;
+		}
 	}
 	&.visible {
 		display: block;
@@ -90,6 +99,9 @@
 	width: 100%; height: 200vh;
 	overflow: hidden;
 	display: none;
+	@media screen and (min-width: $tablet-medium) {
+		
+	}
 }
 .rock {
 	position: absolute;

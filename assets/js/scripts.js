@@ -19,5 +19,5 @@ var lightbox 			= require('./src/lightbox');
 var sliders 			= require('./src/sliders');
 
 jQuery(document).ready(function(){
-	//console.log('Init');
+
 });

@@ -136,7 +136,7 @@
 .section-access {
 	position: absolute;
 	z-index: 3;
-	top: 44%; right: 120px;
+	top: 43%; right: -20px;
 	width: 34px; height: 34px;
 	padding: 0;
 	line-height: 34px;
@@ -157,5 +157,8 @@
 	}
 	@include hover {
 		background: none;
+	}
+	@media screen and (min-width: $tablet-medium) {
+		top: 44%; right: 120px;
 	}
 }
