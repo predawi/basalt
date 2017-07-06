@@ -216,10 +216,10 @@
 	<!-- Section Contact -->
 	<section class="base-section base-section--contact" id="contact" data-theme="white">
 		<h3 class="base-section__name">Informations Générales</h3>
-		<p>contact@basalte.org</p>
+		<p><a href="#" href="mailto:contact@basalte.org">contact@basalte.org</a></p>
 
 		<h3 class="base-section__name">Presse</h3>
-		<p>presse@basalte.org</p>
+		<p><a href="#" href="mailto:presse@basalte.org">presse@basalte.org</a></p>
 
 		<section class="meeting">
 			<a href="https://www.facebook.com/art.basalte/" target="_blank">
