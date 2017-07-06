@@ -22,6 +22,11 @@
 	.slick-list {
 		overflow: visible;
 	}
+	.slick-slide:not(.slick-current) {
+		&:hover {
+			cursor: -webkit-grab;
+		}
+	}
 	@media screen and (min-width: $tablet-medium) {
 		width: 50%;
 		max-width: 768px;

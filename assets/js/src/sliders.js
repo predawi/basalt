@@ -32,6 +32,7 @@ $('#home-slider').slick({
 	initialSlide: 1,
 	slide: '.home-slider__item',
 	asNavFor: '#home-slider__nav',
+	accessibility: true,
 });
 
 // If matchmedia desktop only : bind video play on slider change
@@ -57,6 +58,7 @@ $('#home-slider__nav').slick({
 	centerMode: true,
 	infinite: true,
 	asNavFor: '#home-slider',
+	accessibility: true,
 });
 
 // Show section
