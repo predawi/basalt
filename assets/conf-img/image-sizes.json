@@ -7,6 +7,12 @@
 				"height":"200",
 				"crop":true
 			},
+		"img-500-400":
+			{
+				"width":"500",
+				"height":"400",
+				"crop":true
+			},
 		"img-600-100":
 			{
 				"width":"600",
@@ -101,6 +107,12 @@
 			{
 				"width":"980",
 				"height":"840",
+				"crop":true
+			},
+		"img-1000-797":
+			{
+				"width":"1000",
+				"height":"797",
 				"crop":true
 			}
 	}

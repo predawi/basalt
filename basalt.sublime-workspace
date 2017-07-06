@@ -120,10 +120,18 @@
 	"buffers":
 	[
 		{
+			"file": "assets/css/patterns/_header.scss",
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "assets/css/patterns/_sliders.scss",
 			"settings":
 			{
-				"buffer_size": 2865,
+				"buffer_size": 3417,
 				"line_ending": "Unix"
 			}
 		},
@@ -131,7 +139,7 @@
 			"file": "assets/css/patterns/_sections.scss",
 			"settings":
 			{
-				"buffer_size": 2375,
+				"buffer_size": 3224,
 				"line_ending": "Unix"
 			}
 		},
@@ -139,31 +147,15 @@
 			"file": "assets/js/src/sliders.js",
 			"settings":
 			{
-				"buffer_size": 3231,
+				"buffer_size": 4163,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/css/demo.css",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 6609,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/js/main.js",
-			"settings":
-			{
-				"buffer_size": 13624,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/index.html",
-			"settings":
-			{
-				"buffer_size": 17075,
+				"buffer_size": 27960,
 				"line_ending": "Unix"
 			}
 		},
@@ -171,7 +163,7 @@
 			"file": "assets/css/style.css",
 			"settings":
 			{
-				"buffer_size": 35512,
+				"buffer_size": 36418,
 				"line_ending": "Unix"
 			}
 		},
@@ -179,7 +171,7 @@
 			"file": "assets/js/scripts.min.js",
 			"settings":
 			{
-				"buffer_size": 102801,
+				"buffer_size": 103532,
 				"line_ending": "Unix"
 			}
 		}
@@ -228,6 +220,13 @@
 	},
 	"file_history":
 	[
+		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-locations.json",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-sizes.json",
+		"/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/css/demo.css",
+		"/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/js/main.js",
+		"/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/index.html",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/components/_text.scss",
+		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_entries.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/js/scripts.js",
 		"/Users/beapi/Documents/BeAPI/basalt/index.php",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_global.scss",
@@ -237,8 +236,6 @@
 		"/Users/beapi/Documents/BeAPI/basalt/assets/js/vendor/waypoint.js",
 		"/Users/beapi/Documents/BeAPI/basalt/sftp-config.json",
 		"/Users/beapi/Documents/BeAPI/basalt/html/functions/vendor/timthumb.php",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-sizes.json",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/conf-img/image-locations.json",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/patterns/_sliders.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/js/src/sliders.js",
 		"/Users/beapi/Documents/BeAPI/basalt/header.php",
@@ -257,7 +254,6 @@
 		"/Users/beapi/Documents/BeAPI/basalt/.gitignore",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/css/root/_fonts.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/assets/js/vendor_async/fonts-css-async.js",
-		"/Users/beapi/Documents/BeAPI/basalt/assets/css/components/_text.scss",
 		"/Users/beapi/Documents/BeAPI/basalt/html/footer.php",
 		"/Users/beapi/Documents/BeAPI/basalt/html/header.php",
 		"/Users/beapi/Documents/BeAPI/basalt/html/01-home.php",
@@ -351,11 +347,7 @@
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/blocks/base-stratum--no-results-alt.php",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/img/icons/cd-ain-360.svg",
 		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/03-solution-single.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/header.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/html/04-news-archives.php",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/pages/_default.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/components/_cssloading.scss",
-		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/assets/css/root/_fonts.scss"
+		"/Users/beapi/Documents/BeAPI/cd-ain/content/themes/cd-ain/header.php"
 	],
 	"find":
 	{
@@ -394,6 +386,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"magnet",
 			"grid__img",
 			"grid--loading",
 			"grid__link",
@@ -536,49 +529,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "assets/css/patterns/_sliders.scss",
+					"file": "assets/css/patterns/_header.scss",
 					"settings":
 					{
-						"buffer_size": 2865,
+						"buffer_size": 542,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2304,
-								2304
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2151.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/css/patterns/_sections.scss",
-					"settings":
-					{
-						"buffer_size": 2375,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								308,
-								308
+								460,
+								460
 							]
 						],
 						"settings":
@@ -597,19 +559,81 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "assets/js/src/sliders.js",
+					"buffer": 1,
+					"file": "assets/css/patterns/_sliders.scss",
 					"settings":
 					{
-						"buffer_size": 3231,
+						"buffer_size": 3417,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2461,
-								2461
+								1510,
+								1510
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1072.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/patterns/_sections.scss",
+					"settings":
+					{
+						"buffer_size": 3224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/src/sliders.js",
+					"settings":
+					{
+						"buffer_size": 4163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								902,
+								902
 							]
 						],
 						"settings":
@@ -619,100 +643,43 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1231.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/css/demo.css",
-					"settings":
-					{
-						"buffer_size": 6609,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5397,
-								5397
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 6551.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/js/main.js",
+					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 13624,
+						"buffer_size": 27960,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2075,
-								2081
+								930,
+								930
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1548.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/beapi/Documents/Ressources/js/GridLoadingAnimations/index.html",
-					"settings":
-					{
-						"buffer_size": 17075,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1242.0,
+						"translation.y": 216.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -724,11 +691,11 @@
 			"sheets":
 			[
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "assets/css/style.css",
 					"settings":
 					{
-						"buffer_size": 35512,
+						"buffer_size": 36418,
 						"regions":
 						{
 						},
@@ -747,18 +714,18 @@
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
-						"translation.x": 5316.0,
+						"translation.x": 6704.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "assets/js/scripts.min.js",
 					"settings":
 					{
-						"buffer_size": 102801,
+						"buffer_size": 103532,
 						"regions":
 						{
 						},

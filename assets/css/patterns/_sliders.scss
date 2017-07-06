@@ -39,6 +39,19 @@
 	}
 	video {
 		max-width: 100%; height: auto;
+		display: none;
+	}
+	@media screen and (min-width: $tablet-medium) {
+		video {
+			display: block;
+		}
+	}
+}
+.home-slider__placeholder {
+	max-width: 100%;
+	height: auto;
+	@media screen and (min-width: $tablet-medium) {
+		display: none !important;
 	}
 }
 
@@ -46,7 +59,7 @@
 .home-slider__nav__wrapper {
 	position: absolute;
 	z-index: 2;
-	top: 50%; left: 10%;
+	top: 52%; left: 10%;
 	width: 80%;
 	transform: translateY(-50%);
 	transition: all .3s ease-in-out;
@@ -61,23 +74,29 @@
 			z-index: -3;
 		}
 		.icon-caret-right {
-			top: -3px; left: 0;
+			top: -3px; left: 2px;
 			transform: rotate(-90deg);
-			opacity: 0;
 		}
 		.section-access {
 			right: 50%;
 			margin-right: -17px;
-			&:hover {
-				.icon-caret-right {
-					opacity: 1;
-				}
-			}
 		}
 	}
 	@media screen and (min-width: $tablet-medium) {
 		left: calc( (100% - 685px) / 2 );
 		width: 685px;
+		&.magnet {
+			.icon-caret-right {
+				opacity: 0;
+			}
+			.section-access {
+				&:hover {
+					.icon-caret-right {
+						opacity: 1;
+					}
+				}
+			}
+		}
 	}
 }
 .home-slider__nav {
@@ -105,9 +124,12 @@
 	transition: all .3s ease-in-out;
 	text-decoration: none;
 	outline: none;
-	font-size: 35px;
+	font-size: 30px;
 	&.invisible {
 		opacity: 0;
+	}
+	&.slick-current {
+		font-size: 42px;
 	}
 	@include hover {
 		color: $lightcolor;
@@ -137,28 +159,37 @@
 	position: absolute;
 	z-index: 3;
 	top: 43%; right: -20px;
-	width: 34px; height: 34px;
+	width: 26px; height: 26px;
 	padding: 0;
-	line-height: 34px;
+	line-height: 26px;
 	text-align: center;
 	background: none;
 	transition: all .3s ease-in-out;
 	outline: none;
 	.icon-caret-right {
 		position: relative;
-		top: -2px; left: 1px;
-		width: 15px; height: 15px;
+		top: -2px; left: 0;
+		width: 10px; height: 10px;
 		transition: all .3s ease-in-out;
 	}
 	.icon-dashed-border {
 		position: absolute;
 		top: 0; left: 0;
-		width: 34px; height: 34px;
+		width: 26px; height: 26px;
 	}
 	@include hover {
 		background: none;
 	}
 	@media screen and (min-width: $tablet-medium) {
 		top: 44%; right: 120px;
+		width: 34px; height: 34px;
+		line-height: 34px;
+		.icon-dashed-border {
+			width: 34px; height: 34px;
+		}
+		.icon-caret-right {
+			top: -2px; left: 1px;
+			width: 15px; height: 15px;
+		}
 	}
 }

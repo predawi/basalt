@@ -7,10 +7,21 @@ var $ 				= require('jquery');
 var slick 		= require('../vendor/slick');
 var waypoint 	= require('../vendor/waypoint');
 
-// Inite first video
-$('#home-slider').on('init', function() {
-	$('.slick-current video').get(0).play();
-});
+// If matchmedia desktop only : inject videos
+if( matchMedia('only screen and (min-width: 768px)').matches ) {
+	var video01 = '<video width="600" height="500" loop><source src="assets/videos/roche1.mp4" type="video/mp4">Your browser does not support the video tag.</video>';
+	var video02 = '<video width="600" height="500" loop><source src="assets/videos/roche2.mp4" type="video/mp4">Your browser does not support the video tag.</video>';
+	var video03 = '<video width="600" height="500" loop><source src="assets/videos/roche3.mp4" type="video/mp4">Your browser does not support the video tag.</video>';
+
+	jQuery('.home-slider__item:nth-child(1)').append(video01);
+	jQuery('.home-slider__item:nth-child(2)').append(video03);
+	jQuery('.home-slider__item:nth-child(3)').append(video02);
+
+	// Inite first video
+	$('#home-slider').on('init', function() {
+		$('.slick-current video').get(0).play();
+	});
+}
 
 $('#home-slider').slick({
 	arrows: false,
@@ -23,15 +34,19 @@ $('#home-slider').slick({
 	asNavFor: '#home-slider__nav',
 });
 
-var allVideos = $('.home-slider__item video');
-$('#home-slider').on('afterChange', function(event, slick, currentSlide){
-	$.each(allVideos, function( index, value ) {
-		value.pause();
-	});
+// If matchmedia desktop only : bind video play on slider change
+if( matchMedia('only screen and (min-width: 768px)').matches ) {
+	var allVideos = $('.home-slider__item video');
+	$('#home-slider').on('afterChange', function(event, slick, currentSlide){
+		$.each(allVideos, function( index, value ) {
+			value.pause();
+		});
 
-	var currentVideo = $('.home-slider__item[data-slick-index='+currentSlide+']').find('video').get(0);
-	currentVideo.play();
-});
+		var currentVideo = $('.home-slider__item[data-slick-index='+currentSlide+']').find('video').get(0);
+		currentVideo.play();
+	});
+}
+
 
 $('#home-slider__nav').slick({
 	initialSlide: 1,

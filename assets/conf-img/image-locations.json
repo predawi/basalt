@@ -111,6 +111,22 @@
         "default_img": "thumb-100-100.jpg",
         "img_base": "img-100-100"
       }
+    ],
+    "mobile-rock": [
+      {
+        "srcsets": [
+          {
+            "srcset": "",
+            "size": "img-500-400"
+          },
+          {
+            "srcset": "2x",
+            "size": "img-1000-797"
+          }
+        ],
+        "default_img": "thumb-100-100.jpg",
+        "img_base": "img-100-100"
+      }
     ]
   }
 ]
