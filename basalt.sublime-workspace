@@ -131,7 +131,7 @@
 			"file": "assets/css/patterns/_sliders.scss",
 			"settings":
 			{
-				"buffer_size": 3417,
+				"buffer_size": 3433,
 				"line_ending": "Unix"
 			}
 		},
@@ -163,7 +163,7 @@
 			"file": "assets/css/style.css",
 			"settings":
 			{
-				"buffer_size": 36418,
+				"buffer_size": 36430,
 				"line_ending": "Unix"
 			}
 		},
@@ -563,15 +563,15 @@
 					"file": "assets/css/patterns/_sliders.scss",
 					"settings":
 					{
-						"buffer_size": 3417,
+						"buffer_size": 3433,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1510,
-								1510
+								734,
+								734
 							]
 						],
 						"settings":
@@ -584,7 +584,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1072.0,
+						"translation.y": 97.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -695,7 +695,7 @@
 					"file": "assets/css/style.css",
 					"settings":
 					{
-						"buffer_size": 36418,
+						"buffer_size": 36430,
 						"regions":
 						{
 						},
